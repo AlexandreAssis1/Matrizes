@@ -22,4 +22,4 @@ Este repositório contém um documento em LaTeX com anotações sobre o tema **M
 ## Autor
 
 Alexandre Rocha  
-Estudante de Engenharia Elétrica – Faculdade Metropolitana de Manaus (FAMETRO)
+Estudante de Engenharia Elétrica
