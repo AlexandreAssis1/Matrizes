@@ -20,7 +20,7 @@ Este repositório contém um documento em LaTeX com anotações sobre o tema **M
 - `.pdf`: versão final compilada do material (PDF).
 - `README.md`: este arquivo de descrição.
 
-## Autor
+## 👨‍🎓 Autor
 
-Alexandre Rocha  
+**Alexandre Rocha**  
 Estudante de Engenharia Elétrica
