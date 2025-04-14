@@ -6,6 +6,7 @@ Este repositório contém um documento em LaTeX com anotações sobre o tema **M
 
 - `.pdf`: versão compilada em PDF.
 - `.zip`: arquivo em LaTeX.
+- - `README.md`: este arquivo de descrição.
 
 ## Tópicos abordados
 
