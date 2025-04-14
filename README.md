@@ -4,8 +4,8 @@ Este repositório contém um documento em LaTeX com anotações sobre o tema **M
 
 ## Estrutura
 
-- `main.tex`: arquivo principal em LaTeX.
-- `pdf/`: versão compilada em PDF do conteúdo.
+- `.pdf`: versão compilada em PDF.
+- `.zip`: arquivo em LaTeX.
 
 ## Tópicos abordados
 
