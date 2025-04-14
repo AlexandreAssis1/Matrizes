@@ -2,13 +2,7 @@
 
 Este repositório contém um documento em LaTeX com anotações sobre o tema **Matrizes**, abordando conceitos teóricos fundamentais e exemplos resolvidos. O material foi desenvolvido para fins de estudo pessoal na disciplina de Álgebra Linear.
 
-## Estrutura
-
-- `.pdf`: versão compilada em PDF.
-- `.zip`: arquivo em LaTeX.
-- - `README.md`: este arquivo de descrição.
-
-## Tópicos abordados
+## 📚 Tópicos abordados
 
 - Definição de matrizes
 - Representação Genérica
@@ -19,6 +13,12 @@ Este repositório contém um documento em LaTeX com anotações sobre o tema **M
 - Determinantes de 1°, 2° e 3° Ordem
 - Teorema de Laplace
 - Regra de Kramer
+
+## 🧰 Estrutura
+
+- `.pdf`: versão compilada em PDF.
+- `.zip`: arquivo em LaTeX.
+-  `README.md`: este arquivo de descrição.
 
 ## Autor
 
