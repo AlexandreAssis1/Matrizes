@@ -10,10 +10,14 @@ Este repositório contém um documento em LaTeX com anotações sobre o tema **M
 ## Tópicos abordados
 
 - Definição de matrizes
-- Operações matriciais (adição, multiplicação, transposição)
-- Matrizes especiais (identidade, nula, diagonal, simétrica)
-- Determinantes e propriedades
-- Inversa de matriz
+- Representação Genérica
+- Tipos de Matriz (linha, coluna, quadrada)
+- Diagonal Principal e Secundária
+- Matrizes Especiais (identidade, nula, transposta, simétrica, oposta, antissimétrica, triangular, diagonal, escalar, cofator, adjunta, inversa)
+- Operações com matrizes (igualdade, adição, subtração, multiplicação por um escalar, multiplicação)
+- Determinantes de 1°,2° e 3° Ordem
+- Teorema de Laplace
+- Regra de Kramer
 
 ## Autor
 
