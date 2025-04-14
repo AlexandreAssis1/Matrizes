@@ -14,11 +14,11 @@ Este repositório contém um documento em LaTeX com anotações sobre o tema **M
 - Teorema de Laplace
 - Regra de Kramer
 
-## 🧰 Estrutura
+## 🧰 Estrutura do projeto
 
-- `.pdf`: versão compilada em PDF.
-- `.zip`: arquivo em LaTeX.
--  `README.md`: este arquivo de descrição.
+- `.zip`: documento em LaTeX.
+- `.pdf`: versão final compilada do material (PDF).
+- `README.md`: este arquivo de descrição.
 
 ## Autor
 
